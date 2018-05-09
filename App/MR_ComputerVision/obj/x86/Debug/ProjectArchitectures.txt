@@ -1,0 +1,2 @@
+C:\Users\otsukam\Documents\MR_ComputerVision\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\otsukam\Documents\MR_ComputerVision\App\MR_ComputerVision\MR_ComputerVision.csproj;x86
